@@ -1,7 +1,16 @@
 <h1> ## Hello World! 👋
 </h1>  
 <!--  
-**FS-MyCodePath/FS-MyCodePath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.  
+**FS-MyCodePath/FS-MyCodePath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
+
+<img source= "images/svg/github.svg">
+
+<svg xmlns="http://www.w3.org/2000/svg"
+aria-label="GitHub" role="img"
+viewBox="0 0 512 512"><rect
+width="512" height="512"
+viewBox="0 0 512 512"><path
+d="m0 0H512V512H0"
 
 Here are some ideas to get you started:  
 
