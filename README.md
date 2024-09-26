@@ -3,14 +3,21 @@
 <!--  
 **FS-MyCodePath/FS-MyCodePath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
-<img source= "images/svg/github.svg">
 
-<svg xmlns="http://www.w3.org/2000/svg"
-aria-label="GitHub" role="img"
-viewBox="0 0 512 512"><rect
-width="512" height="512"
-viewBox="0 0 512 512"><path
-d="m0 0H512V512H0"
+
+Me chamo Fran Santos, terminando a faculdade de análise e desenvolvimento de sistemas. 
+Tenho grande interesse por design e programação. Atualmente estou estudando python e javascript 
+
+
+
+Habilidades:
+
+Analista de Sistemas/ Desenvolvimento Web/ Desenvolvimento de Projetos
+
+Ferramentas:
+
+
+
 
 Here are some ideas to get you started:  
 
