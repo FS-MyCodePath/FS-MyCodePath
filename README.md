@@ -3,12 +3,11 @@
 <br/>
 <h3>
 
-Me chamo Fran Santos, terminando a faculdade de análise e desenvolvimento de sistemas. 
+Me chamo , terminando a faculdade de análise e desenvolvimento de sistemas. 
 Tenho grande interesse por design e programação. Atualmente estou estudando python e javascript 
 
 <br/>
 
-Habilidades:
 
 Analista de Sistemas Júnior/ Desenvolvimento Web / Desenvolvimento de Projetos
 
