@@ -5,8 +5,7 @@ Hello World!! 👋 👋
 
 **Analista de Sistemas | Desenvolvedora Web**
 
-
-💡 Transformo desafios em tecnologia
+💡 Transformo desafios em tecnologia  
 
 🚀 Inovação que simplifica
 
@@ -25,6 +24,7 @@ Tenho interesse em áreas modernas como Inteligência Artificial, Cloud Computin
 * 🌐 Inglês avançado | Espanhol intermediário
 
 ---
+<br>  
 
 ## 🚀 Projetos em destaque
 
@@ -48,7 +48,9 @@ Ferramenta para análise de portas abertas e vulnerabilidades
 🛠 Python | Redes
 🔗 https://github.com/seuusuario/projeto4
 
----
+---  
+
+<br>
 
 ## 📂 Projetos por categoria
 
