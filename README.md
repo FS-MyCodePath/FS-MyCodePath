@@ -1,5 +1,5 @@
 Hello World!! 👋 👋  
-[Resume in English](https://github.com/FS-MyCodePath/README.md)
+[English Resume](https://github.com/FS-MyCodePath/README.md)
 
 
 # 👩‍💻 Fran Santos
