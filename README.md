@@ -18,11 +18,11 @@ Sou desenvolvedora com foco em soluções tecnológicas eficientes e orientadas 
 Tenho interesse em áreas modernas como Inteligência Artificial, Cloud Computing e Cibersegurança.
 
 * 🎓 Formação em Análise e Desenvolvimento de Sistemas
-* 💻 Python, JavaScript, SQL
+* 💻 Python, JavaScript, SQL, HTML, CSS
 * ☁️ Cloud (deploy de aplicações)
 * 🔐 Fundamentos de Cibersegurança
 * 📊 Power BI e análise de dados
-* 🌐 Inglês avançado | Espanhol intermediário
+* 🌐 Inglês avançado | Espanhol básico
 
 ---
 <br>  
